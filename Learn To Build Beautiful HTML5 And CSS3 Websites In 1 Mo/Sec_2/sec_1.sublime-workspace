@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"f",
+				"fondo2.jpg	w:1680 h:1050"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"o",
+				"absolute"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"teext",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"i",
+				"img	img"
+			],
+			[
+				"c",
+				"css"
+			],
+			[
+				"col",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Administrador/Dropbox/Lawyer/contact.html",
+			"settings":
+			{
+				"buffer_size": 16207,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 469.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"boos",
+				"Snippet: Bootstrap stripped progress bar"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"fec",
+				"Fetch: Package"
+			],
+			[
+				"fe",
+				"Fetch: Manage"
+			],
+			[
+				"fech",
+				"Fetch: Package"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"nsta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 707.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"git clone https://github.com/buymeasoda/soda-theme/ \"Theme - Soda\"",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrador/Dropbox/Lawyer/sendmail.php",
+		"/F/VideoTutoriales/Practicas/Udemy/Learn To Build Beautiful HTML5 And CSS3 Websites In 1 Mo/Sec_1/index.html",
+		"/C/Users/Administrador/Dropbox/Lawyer/index.html",
+		"/F/VideoTutoriales/PAGINAWEB/xeon2/xeon/index.html",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/View in Browser/Default (Windows).sublime-keymap",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/F/VideoTutoriales/Practicas/Udemy/Learn To Build Beautiful HTML5 And CSS3 Websites In 1 Mo/Sec_1/css/custom.css",
+		"/F/VideoTutoriales/Practicas/Udemy/Learn To Build Beautiful HTML5 And CSS3 Websites In 1 Mo/Sec_1/css/bootstrap-theme.css.map",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/F/VideoTutoriales/Practicas/Udemy/Learn To Build Beautiful HTML5 And CSS3 Websites In 1 Mo/Sec_1/__tmp_package.zip",
+		"/F/VideoTutoriales/Practicas/Udemy/Learn To Build Beautiful HTML5 And CSS3 Websites In 1 Mo/Sec_1/sec_1.sublime-project",
+		"/F/VideoTutoriales/PAGINAWEB/xeon2 (2)/xeon/New folder/index.html",
+		"/F/VideoTutoriales/PAGINAWEB/xeon2 (2)/xeon/New folder/css/main.css",
+		"/F/VideoTutoriales/PAGINAWEB/xeon2/xeon/css/main.css",
+		"/F/VideoTutoriales/PAGINAWEB/xeon2 (2)/xeon/New folder/css/bootstrap.min.css",
+		"/F/VideoTutoriales/PAGINAWEB/xeon2 (2)/xeon/css/font-awesome.min.css",
+		"/F/VideoTutoriales/PAGINAWEB/xeon2 (2)/xeon/index.html",
+		"/F/VideoTutoriales/PAGINAWEB/xeon2 (2)/xeon/css/main.css",
+		"/F/VideoTutoriales/PAGINAWEB/xeon2 (2)/xeon/css/bootstrap.min.css",
+		"/C/Users/Administrador/Desktop/nova/index.html",
+		"/C/Users/Administrador/Desktop/nova/css/main.less",
+		"/C/Users/Administrador/Desktop/nova/css/main.css",
+		"/C/Users/Administrador/Desktop/nova/css/presentacion.css",
+		"/F/VideoTutoriales/Practicas/Dash/blog/contacto.html",
+		"/F/VideoTutoriales/Practicas/Dash/blog/cv.html",
+		"/F/VideoTutoriales/Practicas/Dash/blog/css/estilo.css",
+		"/F/VideoTutoriales/Practicas/Dash/blog/about.html",
+		"/F/VideoTutoriales/Practicas/Dash/blog/index.html",
+		"/G/index.html",
+		"/F/VideoTutoriales/Practicas/Dash/blog/css/estilo.min.css",
+		"/F/VideoTutoriales/Practicas/googlefonts/css/estilo.css",
+		"/F/VideoTutoriales/Practicas/googlefonts/fotns.html",
+		"/C/Users/Administrador/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/F/Melissa/css/estilo.css",
+		"/F/Melissa/blog.html",
+		"/F/VideoTutoriales/Practicas/Dash/blog/css/Mellissa.sublime-project",
+		"/F/VideoTutoriales/Practicas/Dash/blog/blog.html",
+		"/F/VideoTutoriales/Practicas/Dash/blog/img/fondo.jpg",
+		"/F/VideoTutoriales/DASH/anna.html",
+		"/F/VideoTutoriales/Practicas/Udemy/Build Your First Website in 1 Week with HTML5 and CSS3/index.html",
+		"/F/VideoTutoriales/Practicas/Udemy/Build Your First Website in 1 Week with HTML5 and CSS3/css/custom.css",
+		"/F/VideoTutoriales/Practicas/Sublime Text/Prueba1/index.html",
+		"/C/Users/Administrador/Desktop/inde.html",
+		"/C/Users/Administrador/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h1",
+			"carousel",
+			"form-group",
+			"form",
+			"services",
+			"container",
+			"nav",
+			"icon-apple",
+			";\n",
+			"class",
+			">\n",
+			"red",
+			";\n",
+			"cabecera",
+			"script"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Administrador/Dropbox/Lawyer/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7141,
+								7141
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/FireCode (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3370.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 190.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "sec_1.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
